@@ -110,7 +110,7 @@ a {
 .link::after {
   content: '';
   position: absolute;
-  top: 44.5px;
+  top: 45px;
   bottom: 0;
   left: 0;
   width: 100%;
