@@ -164,6 +164,7 @@ a {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
+  justify-content: space-between;
 }
 .logo-text {
   color: var(--text-hero);
@@ -310,6 +311,7 @@ address {
   background-color: var(--text-focus);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+  border: 0px;
   color: var(--text-hero);
 }
 .name-button {
